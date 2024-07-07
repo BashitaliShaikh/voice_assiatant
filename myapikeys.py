@@ -1,1 +1,1 @@
-OPENAI_KEY = "AIzaSyBBvnczSBtisyYYsnKg42FclKWizTs9aLU"
+OPENAI_KEY = "add your API key"
